@@ -1,6 +1,6 @@
 ## Evan's First Homework. Things I like about CS193.
-- How its a relatively low-stakes class
-- How its low stress
+- How it's a relatively low-stakes class
+- How it's low stress
 - How it teaches me some things I will probably need in my future CS Classes
 - Instructors are cool and laid-back. (gotta throw that in there)
 - How this assignment taught me how to use GitHub
