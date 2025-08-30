@@ -1,3 +1,11 @@
+## Evan's First Homework. Things I like about CS193.
+- How its a relatively low-stakes class
+- How its low stress
+- How it teaches me some things I will probably need in my future CS Classes
+- Instructors are cool and laid-back. (gotta throw that in there)
+- How this assignment taught me how to use GitHub
+
+
 ## Welcome to GitHub Pages
 Test
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
